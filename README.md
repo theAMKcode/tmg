@@ -1,12 +1,3 @@
-# Gatsby Starter Elemental
-
-![](https://img.shields.io/badge/version-2.1.1-green.svg) ![](https://img.shields.io/badge/License-MIT-orange.svg)
-
-
-Elemental is a portfolio template suitable for artists, photographers, designers etc. With the starter you can create blog, portfolio and miscellaneous posts (such as privacy-policy).
-
-**[Live Demo](https://elemental.netlify.app)** 
-
 ## Getting Started.
 
 You will need node and [Gatsby](https://www.gatsbyjs.org/tutorial/part-zero/) installed.
@@ -33,7 +24,7 @@ Almost all features of this starter are editable. In order to personalize, open 
 // Do not remove any of the properties below.
 
 const siteMetadata = {
-    title: `Elemental`, // Title of your webpage
+    title: `TMG`, // Title of your webpage
     siteUrl: `http://localhost`, // You sites URL
     capitalizeTitleOnHome: true, // Whether to capitalize the letter on homepage
     logo: `/images/logo.png`, // Logo 
@@ -42,9 +33,9 @@ const siteMetadata = {
     ogImage: `/images/wall.png`, // open graph image (shown when link is shared in social media)
     twoColumnWall: true, // If true, the wall will be split into two with titleImage on left side and text on the right. If false, the title image will be used as the background of the text.
     about:"", // The short about text shown on front page
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`, // Intro tag shown below title
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-    author: `@_akzhy`, // Author
+    introTag: `introTag?`, // Intro tag shown below title
+    description: `desc?`,
+    author: `author?`, // Author
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
     darkmode: true, // Whether to enable the darkmode by default. Change to false if you want the light mode
@@ -100,8 +91,8 @@ const siteMetadata = {
     ],
     contact: {
         api_url: "https://getform.io/f/f227a36xxxxxx", // leave empty ('') or false to hide form
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "hi@akzhy.com",
+        description: `Please get in touch, we'd love to hear from you.`,
+        mail: "tenormediagroup@gmail.com",
         phone: "000-000-0000",
         address: "1234 \nLocation \nLocation"
     },

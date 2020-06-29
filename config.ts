@@ -1,18 +1,18 @@
 const siteMetadata = {
-    title: `Elemental`,
+    title: `Tenor Media Group. TMG for short 🙌🏼`,
     siteUrl: `http://localhost`,
     capitalizeTitleOnHome: false,
-    logo: `/images/logo.png`,
-    icon: `/images/icon.png`,
-    titleImage: `/images/wall.png`,
-    ogImage: `/images/wall.png`,
+    logo: `/images/tmg_logo3.png`,
+    icon: `/images/tmg_icon.png`,
+    titleImage: `/images/bottle_space.jpg`,
+    ogImage: `/images/bottle_space.jpg`,
     twoColumnWall: true,
     cookiePolicy: true,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    introTag: `We're a Global Full-Service Digital Agency.`,
+    description: `Come say Hello 👋🏼`,
     about:
-        "Cras accumsan a lectus at tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus elementum dapibus dictum. Mauris auctor quam nec est tincidunt hendrerit. Donec pulvinar lobortis mauris. Cras vulputate ullamcorper ligula a rhoncus. Nunc venenatis elementum ligula in semper. Mauris malesuada purus nunc, et ultricies leo aliquam ac. Ut sit amet nunc id magna accumsan hendrerit in eget metus.",
-    author: `@_akzhy`,
+        "Opening our doors in 2019.",
+    author: `theAMKcode`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
     darkmode: true,
@@ -45,8 +45,8 @@ const siteMetadata = {
             url: "/privacy-policy",
         },
         {
-            name: "GitHub",
-            url: "https://github.com/akzhy/gatsby-starter-elemental",
+            // name: "NEW Social Link",
+            // url: "",
         },
     ],
     social: [
@@ -74,10 +74,10 @@ const siteMetadata = {
     contact: {
         // leave empty ('') or false to hide form
         api_url: "https://getform.io/f/f227a36e-096a-4c6a-9963-9f1918a85bb3",
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "hi@akzhy.com",
-        phone: "000-000-0000",
-        address: "1234 \nLocation \nLocation",
+        description: `Send us a short note. We'll be in touch within 24 business hours. Thank you!`,
+        mail: "tenormediagroup@gmail.com",
+        phone: "0208-000-000",
+        address: "London",
     },
     disqus: "elemental-netlify-com",
 }

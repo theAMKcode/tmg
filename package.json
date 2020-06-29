@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-elemental",
+  "name": "tmg",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "2.0.0",
+  "description": "tenor_media_group",
+  "version": "1",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -54,9 +54,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/theAMKcode/tmg.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/theAMKcode/tmg/issues"
   }
 }
