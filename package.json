@@ -2,7 +2,7 @@
   "name": "tmg",
   "private": true,
   "description": "tenor_media_group",
-  "version": "1",
+  "version": "2.0.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
